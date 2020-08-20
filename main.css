@@ -91,7 +91,7 @@ p.lead {
     flex-direction: column;
     width: 20rem;
     height: 100vh;
-    background-image: url(assets/profile1.jpg);
+    background-image: url(Assets/profile1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
