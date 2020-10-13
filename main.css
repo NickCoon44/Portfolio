@@ -61,7 +61,7 @@ p.lead {
 }
 
 .col-md-3:hover{
-  background-color: #38bd3f;
+  background-color:rgba(255, 255, 255, 0.5);
 }
 
 .subheading {
@@ -124,6 +124,22 @@ p.lead {
   #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
     display: block;
   }
+}
+
+.grow {
+  padding: 5px 5px 5px 5px;
+  border-radius: 10px;
+  height: 50px;
+  margin: 5px 1% 5px 1%;
+  float: left;
+  position: relative;
+  transition: height 0.5s;
+  -webkit-transition: height 0.5s;
+  text-align: center;
+  overflow: hidden;
+}
+.grow:hover {
+  height: 150px;
 }
 
 .social-icons .social-icon {
