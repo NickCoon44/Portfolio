@@ -102,8 +102,8 @@ p.lead {
     padding: 0.5rem;
   }
   #sideNav .navbar-brand .img-profile {
-    max-width: 15rem;
-    max-height: 15rem;
+    max-width: 30rem;
+    max-height: 30rem;
     margin-top: 3rem;
     border: 0.4rem solid rgba(255, 255, 255, 0.2);
   }
